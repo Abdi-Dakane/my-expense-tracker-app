@@ -30,7 +30,12 @@ Responsive design for mobile and desktop
 
 User-friendly interface
 
-Persistent data storag
+Persistent data storage.
+
+Tech Stack:
+Python,
+Tkinter,
+CSV.
 
 The screenshot.
 
